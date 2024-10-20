@@ -1,0 +1,6 @@
+/* TaskList.css */
+
+.past-due {
+    color: red;
+    text-transform: uppercase; /* Convert text to uppercase */
+}
